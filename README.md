@@ -57,15 +57,6 @@
 - 🤖 *"Teaching machines to think… slowly but surely"*  
 
 ![AI GIF](https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif)
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Anchal-Koli&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Anchal-Koli&theme=radical" />
-</p>
-
 ---
 ## 🌐 Connect With Me
 <p align="center">
